@@ -32,6 +32,7 @@ Settings: HFA=10, Power Match Timing=MID
 - Kansas 25 - Iowa State 14
 
 **Standings after Group Play**
+```
 --- BigXII Standings ---
 Texas Tech           3-0  Elo: 1717
 BYU                  3-0  Elo: 1709
@@ -49,6 +50,7 @@ Colorado             1-2  Elo: 1432
 Oklahoma State       1-2  Elo: 1303
 Utah                 0-3  Elo: 1702
 West Virginia        0-3  Elo: 1450
+```
 
 #### Week 4: Strength on Strength (A hosts B, C hosts D)
 - TCU 20 - Cincinnati 24
@@ -71,6 +73,7 @@ West Virginia        0-3  Elo: 1450
 - Utah 28 - West Virginia 21
 
 **Standings after Power Match Weeks**
+```
 --- BigXII Standings ---
 Texas Tech           5-0  Elo: 1717
 BYU                  4-1  Elo: 1709
@@ -88,6 +91,7 @@ Colorado             2-3  Elo: 1432
 Kansas               1-4  Elo: 1476
 West Virginia        1-4  Elo: 1450
 Oklahoma State       1-4  Elo: 1303
+```
 
 #### Week 6: Crossover Play
 - Colorado 23 - Houston 50
@@ -130,6 +134,7 @@ Oklahoma State       1-4  Elo: 1303
 - Kansas 25 - West Virginia 28 *Thriller!*
 
 ### Final Regular Season Standings
+```
 --- BigXII Standings ---
 BYU                  7-2  Elo: 1709
 Texas Tech           6-3  Elo: 1717
@@ -147,3 +152,4 @@ Kansas               3-6  Elo: 1476
 Baylor               2-7  Elo: 1468
 West Virginia        2-7  Elo: 1450
 Oklahoma State       1-8  Elo: 1303
+```

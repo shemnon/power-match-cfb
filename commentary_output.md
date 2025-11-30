@@ -32,6 +32,7 @@ Settings: HFA=10, Power Match Timing=MID
 - Texas 15 - Missouri 14 *Thriller!*
 
 **Standings after Group Play**
+```
 --- SEC Standings ---
 Georgia              3-0  Elo: 1776
 Texas A&M            3-0  Elo: 1743
@@ -49,7 +50,7 @@ Oklahoma             0-3  Elo: 1727
 Vanderbilt           0-3  Elo: 1646
 Kentucky             0-3  Elo: 1491
 Arkansas             0-3  Elo: 1409
-
+```
 #### Week 4: Strength on Strength (A hosts B, C hosts D)
 - Florida 13 - Tennessee 25
 - LSU 21 - Texas 13
@@ -71,6 +72,7 @@ Arkansas             0-3  Elo: 1409
 - Georgia 25 - Texas A&M 30
 
 **Standings after Power Match Weeks**
+```
 --- SEC Standings ---
 Texas A&M            5-0  Elo: 1743
 Georgia              4-1  Elo: 1776
@@ -88,6 +90,7 @@ Florida              2-3  Elo: 1504
 Oklahoma             1-4  Elo: 1727
 Arkansas             1-4  Elo: 1409
 Kentucky             0-5  Elo: 1491
+```
 
 #### Week 6: Crossover Play
 - Kentucky 43 - Arkansas 13
@@ -130,6 +133,7 @@ Kentucky             0-5  Elo: 1491
 - Vanderbilt 26 - Oklahoma 21
 
 ### Final Regular Season Standings
+```
 --- SEC Standings ---
 Georgia              8-1  Elo: 1776
 Texas A&M            7-2  Elo: 1743
@@ -147,3 +151,4 @@ Florida              3-6  Elo: 1504
 Arkansas             3-6  Elo: 1409
 Oklahoma             1-8  Elo: 1727
 Kentucky             1-8  Elo: 1491
+```

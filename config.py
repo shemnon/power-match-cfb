@@ -1,4 +1,4 @@
-# Elo ratings updated from Warren Nolan
+# Elo ratings updated from Warren Nolan https://www.warrennolan.com/fbs/2025/elo
 
 SEC_TEAMS = [{'name': 'Georgia', 'group_id': 'A', 'elo': 1775.8},
  {'name': 'Florida', 'group_id': 'A', 'elo': 1504.3},
