@@ -196,17 +196,17 @@ def resolve_tie(tied_teams, league, rank_spot):
                 
     # Step 4: Strength of Schedule
     print("Step 4: Strength of Schedule (Opponent Win %)")
-    sos_stats = []
+    power_stats = []
     for t in candidates:
-        sos = get_strength_of_schedule(t, league)
-        sos_stats.append((t, sos))
+        power = get_strength_of_schedule(t, league)
+        power_stats.append((t, power))
         
-    sos_stats.sort(key=lambda x: x[1], reverse=True)
-    for t, sos in sos_stats:
-        print(f"  {t.name}: {sos:.4f}")
+    power_stats.sort(key=lambda x: x[1], reverse=True)
+    for t, power in power_stats:
+        print(f"  {t.name}: {power:.4f}")
         
-    best_sos = sos_stats[0][1]
-    survivors = [t for t, s in sos_stats if s == best_sos]
+    best_power = power_stats[0][1]
+    survivors = [t for t, s in power_stats if s == best_power]
     
     if len(survivors) == 1:
         print(f"  -> Winner: {survivors[0].name}")

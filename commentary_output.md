@@ -1,5 +1,5 @@
 ### SEC Season Simulation (Commentary Mode - Static Elo)
-Settings: HFA=10, SoS Timing=MID
+Settings: HFA=10, Power Match Timing=MID
 
 #### Week 1: Group Play
 - Alabama 25 - Auburn 11
@@ -70,7 +70,7 @@ Arkansas             0-3  Elo: 1409
 - Kentucky 26 - Oklahoma 56
 - Georgia 25 - Texas A&M 30
 
-**Standings after SoS Weeks**
+**Standings after Power Match Weeks**
 --- SEC Standings ---
 Texas A&M            5-0  Elo: 1743
 Georgia              4-1  Elo: 1776

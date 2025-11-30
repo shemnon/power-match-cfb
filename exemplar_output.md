@@ -1,5 +1,5 @@
 
-### SEC Exemplar Schedule (MID-Season SoS)
+### SEC Exemplar Schedule (MID-Season Power Match)
 Format: Team (Record) vs Opponent (Record) [Result]
 
 #### Group Play (3 Games)
@@ -8,13 +8,13 @@ Format: Team (Record) vs Opponent (Record) [Result]
 **LSU** (C): W vs Ole Miss, W vs Miss State, W vs Arkansas
 **Texas** (D): W vs Texas A&M, L vs Oklahoma, W vs Missouri
 
-#### SoS Week 1
+#### Power Match Week 1
 **Georgia** (A): W vs Alabama
 **Alabama** (B): L vs Georgia
 **LSU** (C): W vs Oklahoma
 **Texas** (D): W vs Ole Miss
 
-#### SoS Week 2
+#### Power Match Week 2
 **Georgia** (A): W vs Texas
 **Alabama** (B): L vs LSU
 **LSU** (C): W vs Alabama
@@ -45,7 +45,7 @@ Arkansas             3-6  Elo: 1423
 Missouri             2-7  Elo: 1536
 Miss State           2-7  Elo: 1425
 
-### SEC Exemplar Schedule (END-Season SoS)
+### SEC Exemplar Schedule (END-Season Power Match)
 Format: Team (Record) vs Opponent (Record) [Result]
 
 #### Group Play (3 Games)
@@ -60,13 +60,13 @@ Format: Team (Record) vs Opponent (Record) [Result]
 **LSU** (C): L vs Georgia, L vs Florida, W vs South Carolina, W vs Kentucky
 **Texas** (D): L vs Alabama, W vs Auburn, W vs Tennessee, W vs Vanderbilt
 
-#### SoS Week 1
+#### Power Match Week 1
 **Georgia** (A): L vs Alabama
 **Alabama** (B): W vs Georgia
 **LSU** (C): L vs Texas A&M
 **Texas** (D): L vs Arkansas
 
-#### SoS Week 2
+#### Power Match Week 2
 **Georgia** (A): L vs Texas A&M
 **Alabama** (B): W vs Ole Miss
 **LSU** (C): W vs Auburn

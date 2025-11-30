@@ -1,5 +1,5 @@
 ### BigXII Season Simulation (Commentary Mode - Static Elo)
-Settings: HFA=10, SoS Timing=MID
+Settings: HFA=10, Power Match Timing=MID
 
 #### Week 1: Group Play
 - Arizona 18 - Arizona State 30
@@ -70,7 +70,7 @@ West Virginia        0-3  Elo: 1450
 - Arizona 22 - Houston 20 *Thriller!*
 - Utah 28 - West Virginia 21
 
-**Standings after SoS Weeks**
+**Standings after Power Match Weeks**
 --- BigXII Standings ---
 Texas Tech           5-0  Elo: 1717
 BYU                  4-1  Elo: 1709

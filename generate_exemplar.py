@@ -8,7 +8,7 @@ def run_exemplar(league_name, power_match_timing):
     if league_name == 'SEC':
         teams_data = config.SEC_TEAMS
         crossover_pairs = [('A', 'C'), ('B', 'D')]
-        sos_rounds = [[('A', 'B'), ('C', 'D')], [('D', 'A'), ('B', 'C')]]
+        power_rounds = [[('A', 'B'), ('C', 'D')], [('D', 'A'), ('B', 'C')]]
         power_match_rounds = [[('A', 'B'), ('C', 'D')], [('D', 'A'), ('B', 'C')]]
     else:
         teams_data = config.BIG_XII_TEAMS

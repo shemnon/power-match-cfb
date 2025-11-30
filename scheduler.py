@@ -7,7 +7,7 @@ class Scheduler:
     def generate_schedule(self, crossover_pairs):
         """
         crossover_pairs: List of tuples (group_id_1, group_id_2) indicating which groups play full crossover.
-        The remaining groups will be used for strength-on-strength if possible.
+        The remaining groups will be used for power match if possible.
         """
         
         # 1. Intra-group Round Robin

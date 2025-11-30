@@ -34,7 +34,7 @@ Based on 1000 simulated seasons using real 2025 Elo ratings:
 
 *   **Baseline (1 Power Match Week)**: Approximately **51-54%** of seasons end with a tie for the top 2 spots (requiring complex tie-breakers).
 *   **Chaos Model (9-Game Random)**: Approximately **52%** of seasons end with a tie. This confirms that simply playing more games (9 vs 8) without structure doesn't solve the tie-breaker issue.
-*   **Enhanced (2 Power Match Weeks)**: Increasing to 2 SoS weeks reduces the tie frequency to **~45%**.
+*   **Enhanced (2 Power Match Weeks)**: Increasing to 2 Power Match weeks reduces the tie frequency to **~45%**.
 *   **Timing**: Moving Power Match games to the **end** of the season (after group and crossover play) offers a marginal improvement over mid-season scheduling, likely because the matchups are based on more mature data.
 
 ## How to Run
@@ -72,12 +72,12 @@ python3 main.py --league SEC --sims 50 --evolve-elo
 Below are examples of how a season plays out for a top team from each group under different scheduling models.
 
 ### Scenario A: Mid-Season Power Match (2 Weeks)
-*Schedule Order: 3 Group Games -> 2 SoS Games -> 4 Crossover Games*
+*Schedule Order: 3 Group Games -> 2 Power Match Games -> 4 Crossover Games*
 
 **Georgia (Group A)**
 *   **Group Play**: W vs Florida, L vs South Carolina, W vs Kentucky
-*   **SoS Week 1**: W vs Alabama (Group B leader)
-*   **SoS Week 2**: W vs Texas (Group D leader)
+*   **Power Match Week 1**: W vs Alabama (Group B leader)
+*   **Power Match Week 2**: W vs Texas (Group D leader)
 *   **Crossover**: L vs LSU, L vs Ole Miss, L vs Miss State, W vs Arkansas
 *   **Result**: 5-4
 
